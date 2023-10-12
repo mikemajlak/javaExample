@@ -4,6 +4,10 @@ public class Example {
     public float divide(float a, float b) {
         return a / b;
     }
+
+    public int subtract(int a, int b) {
+        return a - b;
+    }
     public int Multiply(int a, int b) {
         return a * b;
     }
